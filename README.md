@@ -1,6 +1,11 @@
 # MiSTer64
 An add on board to support IEC and C128 keyboards for the MiSTer
 
+This project was designed and built with DipTrace ( Standard )
+https://www.diptrace.com/
+
+You can however use the "free version" of DipTrace to update and modify the above project files for you own non-commercial use.
+
 For more information please read these blog entries:
 
 https://8bitshardway.blogspot.com/2021/07/mister-fpga-user-serial-connector-to.html
