@@ -12,7 +12,7 @@ https://8bitshardway.blogspot.com/2021/07/mister-fpga-user-serial-connector-to.h
 
 https://8bitshardway.blogspot.com/2021/07/mister-fpga-user-serial-connector-to_2.html
 
-Copyright Michael Fong
+Copyright Michael Fong 2021
 
 This project is released as : CC BY-NC 4.0
 Please refer to : https://creativecommons.org/licenses/by-nc/4.0/
